@@ -27,7 +27,7 @@ const siteProps = {
   name: "Simra Azhar",
   title: "Web Designer & Content Creator",
   email: "Simra.Azhar@studentambassadors.com",
-  gitHub: "https://github.com/simraazhar100",
+  gitHub: "simraazhar100",
   instagram: "https://www.instagram.com/simraazhar4/",
   linkedIn: "https://www.linkedin.com/in/simra-azhar-a827801ab/",
   medium: "",
