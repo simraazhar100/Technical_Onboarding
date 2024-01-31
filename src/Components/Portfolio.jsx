@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "StoryVerse -- Novel Reading App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a beginner friendly app to help explain Novel Reading App functionality and tooling to get started.",
+    url: "https://www.behance.net/gallery/180294357/StoryVerse-novel-reading-app",
   },
   {
     title: "Web Development for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed to a dynamic Landing page. These help provide visual representation of a restaurant system.",
+    url: "https://github.com/simraazhar100/OIBSIP_Landing_Page",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from HTML/CSS/JS portfolio and deployed to GitHub. Includes my experience and design abilities.",
+    url: "https://github.com/simraazhar100/OIBSIP_Portfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Temperature Convertor",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Make a temperature Convertor to show the exclusive functionality of JavaScript and HTML/CSS.",
+    url: "https://github.com/simraazhar100/OIBSIP_Temperature_Convertor",
   },
 ];
 
